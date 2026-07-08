@@ -66,7 +66,7 @@ def work(n: int = 1):
     total = 0
     for i in range(max(n, 0)):
         total += i * i  # trivial work
-    return {"email": "learner@example.com", "done": n}
+    return {"email": "24f2003019@ds.study.iitm.ac.in", "done": n}
 
 
 @app.get("/metrics")
